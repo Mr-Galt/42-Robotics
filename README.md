@@ -20,5 +20,4 @@ With technologies like OpenCV combined with OAK-D Lite along with a suite of sen
 https://github.com/Mr-Galt/42-Robotics/assets/135198406/572156ed-3e7d-4519-b064-df9a4b57dc8d
 
 ## More pictures
-
-
+![robot](https://github.com/Mr-Galt/42-Robotics/assets/135198406/89e5b659-e723-464c-b7f6-b313c44c92a3)
